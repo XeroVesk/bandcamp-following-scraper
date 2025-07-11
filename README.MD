@@ -1,6 +1,10 @@
-﻿# Bandcamp Following Scraper
+# Bandcamp Following Scraper
 
 A Python tool for scraping Bandcamp following lists with comprehensive filtering capabilities. Can be used both as a command-line tool and as a Python module.
+
+## Project Purpose
+
+Built to demonstrate web scraping capabilities, including HTML parsing, dynamic content handling, and data extraction. Showcases fundamental web scraping techniques with Selenium that are applicable across many sites requiring JavaScript interaction.
 
 ## Features
 
