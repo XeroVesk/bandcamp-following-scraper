@@ -186,7 +186,7 @@ The script includes comprehensive error handling:
 
 ## License
 
-MIT License - see the script header for full license text.
+MIT License
 
 ## Author
 
